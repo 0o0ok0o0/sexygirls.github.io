@@ -1,0 +1,120 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+     font-family: "BeaufortforLOL-Bold";
+        
+    
+}
+
+.container{
+    width: 1440px;
+    margin: auto;
+
+}
+.banner{
+    height: 825px
+}
+.logo{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+li a:hover {
+    text-decoration: underline;
+    color: aqua;
+
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 0 16px;
+}
+li a{
+   text-decoration: none;
+    color:black;
+    font-size: 20px;}
+.content-img-text{
+    margin-top: 62.2px;
+   
+}
+.img-text-item{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+.img-text{
+    margin: 16px;
+}
+.text h4{
+    width:328px;
+    height: 80px;
+    display: grid;
+    background-color: #0E4C67;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: -4px;
+    padding: 28px 133px;
+}
+/* h4{
+    width: 328px;
+    height: 80px;
+    text-align: center;
+    
+    background-color: #0E4C67;
+   padding: 28px 133px;
+   
+   
+} */
+.intro-video{
+    text-align: center;
+   margin-top: 64px;
+   margin-bottom: 64px;
+    
+}
+.footer{
+    width: 1440px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #0E4C67;
+    
+    margin-top: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.coppy-right{
+    font-size: 20px;
+    color: #ffffff;
+    margin: auto 32px;
+    padding-left: 16px;
+}
+
+
+.eml{
+    width: 278px;
+    height: 50px;
+    border: 2px solid #FFA800;
+    border-radius: 5px;
+    background-color: transparent;
+    padding-right: 24px;
+    padding-left: 26px;
+    margin-right: 12px;
+
+}
+.sub{
+    background-color: #FFA800;
+    width: 120px;
+    height: 52px;
+    font-size: 16px;
+    margin-left: 12px;
+    border-radius: 5px;
+    color: #ffffff;
+
+}
+.email{
+    margin: 25px;
+    text-align: right;}
